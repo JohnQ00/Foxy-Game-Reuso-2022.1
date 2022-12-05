@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - Enemy
+  - UI
+  - PowerUps
+  - Spikes
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Wall
+  - Player
+  - Spikes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 1206936743
+    locked: 0
+  - name: Middle
+    uniqueID: 2491866729
+    locked: 0
+  - name: Middle2
+    uniqueID: 1745640609
+    locked: 0
+  - name: Entity
+    uniqueID: 2356640763
+    locked: 0
+  - name: Spikes
+    uniqueID: 3684461291
+    locked: 0
+  - name: Fore
+    uniqueID: 1380498755
+    locked: 0
